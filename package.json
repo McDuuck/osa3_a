@@ -1,0 +1,28 @@
+{
+  "name": "osa3_a",
+  "version": "1.0.0",
+  "description": "Persons_back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McDuuck/osa3_a.git"
+  },
+  "author": "Ilmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McDuuck/osa3_a/issues"
+  },
+  "homepage": "https://github.com/McDuuck/osa3_a#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
